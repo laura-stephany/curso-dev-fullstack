@@ -1,0 +1,58 @@
+body{
+    background: #999797;
+    font-family: 'Open Sans Condensed', sans-serif;;
+    font-size:20px;
+    color: rgb(51, 50, 50)
+    
+}
+
+
+
+.container{
+    width: 970px;
+    margin: 0 auto;
+}
+
+.profile{
+ text-align: center;
+ margin-bottom: 50px ;
+ 
+}
+
+h1{
+   margin-bottom:0 ; 
+   margin-top:10px ;
+   font-family: 'Rubik', sans-serif;
+   
+}
+
+h2{
+    margin-top:0;
+    font-style: italic;
+    font-family: 'Merriweather', serif;
+}
+
+.foto-principal {
+ width: 200px;
+ border: 3px solid #ffffff; /*shorthand*/
+ border-radius: 20%;
+
+ margin: 30px 30px 0 30px ;
+ padding: 2px;
+ box-shadow: 4px 2px 7px black;
+ 
+
+
+}
+
+.social-icons{
+    width: 50px;
+    height: alto;
+}
+
+.social-links{
+    text-decoration: none;
+}
+.facebook{
+    margin:0 0 0 15px;
+}

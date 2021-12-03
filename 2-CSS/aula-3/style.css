@@ -1,0 +1,16 @@
+body{
+    background-image:url(background.jpeg);
+    background-repeat: no-repeat;
+  /*background-position:100% 7%; */
+    background-position: center center;
+    background-size: cover;
+    background-attachment:fixed;
+}
+
+p{
+    color: #3f05aa;
+}
+
+.foto{
+    width:120px;
+}
